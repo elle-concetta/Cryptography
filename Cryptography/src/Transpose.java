@@ -1,6 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
 public class Transpose extends Cipher {
     // Constructor to initialize the Transpose with the input text
     Transpose(String s) {
