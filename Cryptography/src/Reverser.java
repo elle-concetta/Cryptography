@@ -1,7 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
-
 // Constructor to initialize the Reverser with the input text
 public class Reverser extends Transpose {
     // Method to reverse a word
