@@ -1,7 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
-
 import javax.swing.JOptionPane;
 public class TestEncryption {
     public static void main(String[] arg) {
