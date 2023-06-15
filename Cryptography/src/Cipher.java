@@ -1,6 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
 import java.util.StringTokenizer;
 public abstract class Cipher {
     private String message;
