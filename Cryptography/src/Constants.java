@@ -1,6 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
 public interface Constants {
     // Constant to represent the number of characters in the alphabet
     int WRAP_AROUND = 26;
