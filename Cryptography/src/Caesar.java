@@ -1,6 +1,3 @@
-/* Elizabeth Fassler and Abril Calderale
-   COP 3337 Assignment 2
-*/
 public class Caesar extends Cipher {
     // Constructor to initialize the Caesar cipher with the input text
     public Caesar(String s) {
